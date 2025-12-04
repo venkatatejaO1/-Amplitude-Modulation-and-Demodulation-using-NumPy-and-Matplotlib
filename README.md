@@ -91,7 +91,7 @@ plt.show()
 ![WhatsApp Image 2025-11-26 at 19 58 03_d00c70df](https://github.com/user-attachments/assets/a31bae37-e65c-43ed-aa77-723bf13d8909)
 
  __Result__:
- The message signal carrier signal and amplitude modulation (AM) signal will be displayed in separate plots
- Thus, AM is implimented using Numpu and matplotlib.
+![image](https://github.com/user-attachments/assets/169c466d-11af-4f68-998e-f2b036626cfe)
+
 
 
